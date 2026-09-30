@@ -38,8 +38,8 @@ python3 --version
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Priyank26mei10007/bus-booking-system.git
+cd <bus-booking-system>
 ```
 
 ### 2. (Optional but recommended) Create a virtual environment
